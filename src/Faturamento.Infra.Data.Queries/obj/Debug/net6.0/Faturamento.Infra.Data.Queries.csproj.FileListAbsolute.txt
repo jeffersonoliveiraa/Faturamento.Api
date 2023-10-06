@@ -1,0 +1,17 @@
+C:\Alura\Faturamento.Api\src\Faturamento.Infra.Data.Queries\bin\Debug\net6.0\Faturamento.Infra.Data.Queries.deps.json
+C:\Alura\Faturamento.Api\src\Faturamento.Infra.Data.Queries\bin\Debug\net6.0\Faturamento.Infra.Data.Queries.dll
+C:\Alura\Faturamento.Api\src\Faturamento.Infra.Data.Queries\bin\Debug\net6.0\Faturamento.Infra.Data.Queries.pdb
+C:\Alura\Faturamento.Api\src\Faturamento.Infra.Data.Queries\bin\Debug\net6.0\Faturamento.Domain.dll
+C:\Alura\Faturamento.Api\src\Faturamento.Infra.Data.Queries\bin\Debug\net6.0\Faturamento.Infra.Data.dll
+C:\Alura\Faturamento.Api\src\Faturamento.Infra.Data.Queries\bin\Debug\net6.0\Faturamento.Domain.pdb
+C:\Alura\Faturamento.Api\src\Faturamento.Infra.Data.Queries\bin\Debug\net6.0\Faturamento.Infra.Data.pdb
+C:\Alura\Faturamento.Api\src\Faturamento.Infra.Data.Queries\obj\Debug\net6.0\Faturamento.Infra.Data.Queries.csproj.AssemblyReference.cache
+C:\Alura\Faturamento.Api\src\Faturamento.Infra.Data.Queries\obj\Debug\net6.0\Faturamento.Infra.Data.Queries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Alura\Faturamento.Api\src\Faturamento.Infra.Data.Queries\obj\Debug\net6.0\Faturamento.Infra.Data.Queries.AssemblyInfoInputs.cache
+C:\Alura\Faturamento.Api\src\Faturamento.Infra.Data.Queries\obj\Debug\net6.0\Faturamento.Infra.Data.Queries.AssemblyInfo.cs
+C:\Alura\Faturamento.Api\src\Faturamento.Infra.Data.Queries\obj\Debug\net6.0\Faturamento.Infra.Data.Queries.csproj.CoreCompileInputs.cache
+C:\Alura\Faturamento.Api\src\Faturamento.Infra.Data.Queries\obj\Debug\net6.0\Faturamento.Infra.Data.Queries.csproj.CopyComplete
+C:\Alura\Faturamento.Api\src\Faturamento.Infra.Data.Queries\obj\Debug\net6.0\Faturamento.Infra.Data.Queries.dll
+C:\Alura\Faturamento.Api\src\Faturamento.Infra.Data.Queries\obj\Debug\net6.0\refint\Faturamento.Infra.Data.Queries.dll
+C:\Alura\Faturamento.Api\src\Faturamento.Infra.Data.Queries\obj\Debug\net6.0\Faturamento.Infra.Data.Queries.pdb
+C:\Alura\Faturamento.Api\src\Faturamento.Infra.Data.Queries\obj\Debug\net6.0\ref\Faturamento.Infra.Data.Queries.dll

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "eziYm9mO6G6EQ6lGU7wYL0gsdXhiAY3BjYyS2rYvgWMxGu1j+AHENDT601+1Tz50FosDu3Yr5ltELSiak3vg0g==",
+  "success": true,
+  "projectFilePath": "C:\\Alura\\Faturamento.Api\\src\\Faturamento.Domain\\Faturamento.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jeffe\\.nuget\\packages\\mediatr\\8.0.0\\mediatr.8.0.0.nupkg.sha512",
+    "C:\\Users\\jeffe\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\8.0.0\\mediatr.extensions.microsoft.dependencyinjection.8.0.0.nupkg.sha512",
+    "C:\\Users\\jeffe\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.0.0\\microsoft.extensions.dependencyinjection.abstractions.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
