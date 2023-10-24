@@ -170,3 +170,7 @@ C:\Alura\Faturamento.Api\src\Futuramento.Api\obj\Debug\net6.0\Faturamento.Api.ge
 C:\Alura\Faturamento.Api\src\Futuramento.Api\obj\Debug\net6.0\ref\Faturamento.Api.dll
 C:\Alura\Faturamento.Api\src\Futuramento.Api\bin\Debug\net6.0\Faturamento.Infra.Data.Queries.dll
 C:\Alura\Faturamento.Api\src\Futuramento.Api\bin\Debug\net6.0\Faturamento.Infra.Data.Queries.pdb
+C:\Alura\Faturamento.Api\src\Futuramento.Api\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Alura\Faturamento.Api\src\Futuramento.Api\bin\Debug\net6.0\RabbitMQ.Client.dll
+C:\Alura\Faturamento.Api\src\Futuramento.Api\bin\Debug\net6.0\RabbitMQ.Client.Core.DependencyInjection.dll
+C:\Alura\Faturamento.Api\src\Futuramento.Api\bin\Debug\net6.0\System.Threading.Channels.dll

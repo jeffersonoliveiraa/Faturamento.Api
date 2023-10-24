@@ -1,3 +1,4 @@
+using Faturamento.Api.EventProcessing;
 using Faturamento.Domain.Commands.v1.Faturamento.Create;
 using Faturamento.Domain.Contracts.v1.Repository;
 using Faturamento.Infra.Data.Context.v1;
