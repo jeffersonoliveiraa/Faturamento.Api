@@ -27,7 +27,7 @@ Este projeto tem como objetivo demonstrar a implementação de uma API de fatura
 
 A estrutura do projeto segue os princípios da Clean Architecture, dividindo responsabilidades em diferentes camadas:
 
-- **src/**: Contém o código-fonte do projeto.
+  - **src/**: Contém o código-fonte do projeto.
   - **Application/**: Contém a lógica de negócio e as definições de interfaces.
   - **Domain/**: Contém as entidades e agregados do domínio.
   - **Infrastructure/**: Contém a implementação dos repositórios e a configuração do banco de dados.
